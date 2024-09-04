@@ -1,6 +1,12 @@
 # TestCSVDuplicates
 The file you have to open is main.py.
 
+Install dependencies:
+```
+pip install python-csv
+pip install pandas
+pip install -U pytest
+```
 Clone the repository with the duplicates.csv file, then run:
 ```
 python main.py
