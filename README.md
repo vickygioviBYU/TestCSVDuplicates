@@ -7,7 +7,7 @@ pip install python-csv
 pip install pandas
 pip install -U pytest
 ```
-Clone the repository with the duplicates.csv file, then run:
+Clone the repository with the duplicates.csv file, then locate in the same directory than main.py, and run:
 ```
 python main.py
 ```
