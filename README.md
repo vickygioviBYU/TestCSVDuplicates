@@ -1,5 +1,10 @@
 # TestCSVDuplicates
 The file you have to open is main.py.
+
+Clone the repository with the duplicates.csv file, then run:
+```
+python main.py
+```
 ## SCORE
 High or Low
 
